@@ -1,0 +1,15 @@
+ERROR (line 10): first non-blank character must be a letter or a dot.
+ERROR (line 11): command can't have more than 2 operands.
+ERROR (line 13): command can't have more than 2 operands.
+ERROR (line 16): label must be followed by a command or a directive.
+ERROR (line 18): number of operands does not match command requirements.
+ERROR (line 19): operands' addressing methods do not match command requirements.
+ERROR (line 20): operand has invalid addressing method.
+ERROR (line 21): number of operands does not match command requirements.
+ERROR (line 23): .data expected a numeric parameter.
+************* Started error2.as assembling process *************
+
+
+
+************* Finished error2.as assembling process *************
+

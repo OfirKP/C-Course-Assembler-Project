@@ -1,0 +1,33 @@
+ERROR (line 6): invalid command or directive.
+ERROR (line 8): .extern directive received an invalid label.
+ERROR (line 9): .extern directive received an invalid label.
+ERROR (line 10): .extern directive received an invalid label.
+ERROR (line 14): operands' addressing methods do not match command requirements.
+ERROR (line 15): operand has invalid addressing method.
+ERROR (line 16): command can't have more than 2 operands.
+ERROR (line 17): operands' addressing methods do not match command requirements.
+ERROR (line 18): operands' addressing methods do not match command requirements.
+ERROR (line 19): label already exists.
+ERROR (line 20): operands' addressing methods do not match command requirements.
+ERROR (line 21): number of operands does not match command requirements.
+ERROR (line 22): number of operands does not match command requirements.
+ERROR (line 23): operands' addressing methods do not match command requirements.
+ERROR (line 24): invalid command or directive.
+ERROR (line 25): command can't have more than 2 operands.
+ERROR (line 27): number of operands does not match command requirements.
+ERROR (line 28): label can't have the same name as a command.
+ERROR (line 29): operands' addressing methods do not match command requirements.
+ERROR (line 30): invalid command or directive.
+ERROR (line 31): label must be followed by a command or a directive.
+ERROR (line 32): label already exists.
+ERROR (line 33): label must be followed by a command or a directive.
+ERROR (line 36): label already exists.
+ERROR (line 37): .data expected a numeric parameter.
+ERROR (line 39): .data expected a numeric parameter.
+ERROR (line 40): .data expected a comma after a numeric parameter.
+************* Started errors.as assembling process *************
+
+
+
+************* Finished errors.as assembling process *************
+
