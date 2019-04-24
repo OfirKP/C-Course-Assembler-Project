@@ -11,8 +11,6 @@ The project was coded and compiled using Ubuntu, but it may run on all Linux ver
 
 ### Usage
 
-A step by step series of examples that tell you how to get a development env running
-
 Use makefile to compile the project like this:
 ```
 >   make
